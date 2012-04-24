@@ -16,3 +16,4 @@
 //= require backbone-min
 //= require_tree ./models
 //= require_tree .
+//= require_tree ../templates
