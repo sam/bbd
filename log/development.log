@@ -6309,3 +6309,474 @@ Started GET "/" for 127.0.0.1 at 2012-04-24 15:08:09 -0500
 2012-04-24 20:08:09 INFO: Processing by WelcomeController#index as HTML
 2012-04-24 20:08:09 INFO:   Rendered welcome/index.html.erb within layouts/application (0.0ms)
 2012-04-24 20:08:09 INFO: Completed 200 OK in 44ms (Views: 38.0ms | ActiveRecord: 0.0ms)
+2012-04-24 20:12:57 INFO: 
+
+Started GET "/" for 127.0.0.1 at 2012-04-24 15:12:57 -0500
+2012-04-24 20:12:57 INFO: Processing by WelcomeController#index as HTML
+2012-04-24 20:12:57 INFO:   Rendered welcome/index.html.erb within layouts/application (0.0ms)
+2012-04-24 20:12:57 INFO: Compiled models/tweet.js  (3ms)  (pid 31864)
+2012-04-24 20:12:57 INFO: Compiled collections/tweets.js  (2ms)  (pid 31864)
+2012-04-24 20:12:57 INFO: Compiled application.js  (75ms)  (pid 31864)
+2012-04-24 20:12:57 INFO: Completed 200 OK in 456ms (Views: 454.0ms | ActiveRecord: 0.0ms)
+2012-04-24 20:12:57 INFO: 
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-04-24 15:12:57 -0500
+2012-04-24 20:12:57 INFO: Served asset /application.css - 304 Not Modified (9ms)
+2012-04-24 20:12:57 INFO: 
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-04-24 15:12:57 -0500
+2012-04-24 20:12:57 INFO: Served asset /jquery.js - 304 Not Modified (1ms)
+2012-04-24 20:12:57 INFO: 
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-04-24 15:12:57 -0500
+2012-04-24 20:12:57 INFO: Served asset /jquery_ujs.js - 304 Not Modified (6ms)
+2012-04-24 20:12:57 INFO: 
+
+Started GET "/assets/underscore-min.js?body=1" for 127.0.0.1 at 2012-04-24 15:12:57 -0500
+2012-04-24 20:12:57 INFO: Served asset /underscore-min.js - 304 Not Modified (0ms)
+2012-04-24 20:12:57 INFO: 
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2012-04-24 15:12:57 -0500
+2012-04-24 20:12:57 INFO: Served asset /welcome.css - 304 Not Modified (0ms)
+2012-04-24 20:12:57 INFO: 
+
+Started GET "/assets/backbone-min.js?body=1" for 127.0.0.1 at 2012-04-24 15:12:57 -0500
+2012-04-24 20:12:57 INFO: Served asset /backbone-min.js - 304 Not Modified (0ms)
+2012-04-24 20:12:57 INFO: 
+
+Started GET "/assets/models/tweet.js?body=1" for 127.0.0.1 at 2012-04-24 15:12:57 -0500
+2012-04-24 20:12:58 INFO: Served asset /models/tweet.js - 200 OK (188ms)
+2012-04-24 20:12:58 INFO: 
+
+Started GET "/assets/collections/tweets.js?body=1" for 127.0.0.1 at 2012-04-24 15:12:58 -0500
+2012-04-24 20:12:58 INFO: Served asset /collections/tweets.js - 200 OK (184ms)
+2012-04-24 20:12:58 INFO: 
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2012-04-24 15:12:58 -0500
+2012-04-24 20:12:58 INFO: Served asset /welcome.js - 304 Not Modified (0ms)
+2012-04-24 20:12:58 INFO: 
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-04-24 15:12:58 -0500
+2012-04-24 20:12:58 INFO: Served asset /application.js - 304 Not Modified (186ms)
+2012-04-24 20:16:12 INFO: 
+
+Started GET "/" for 127.0.0.1 at 2012-04-24 15:16:12 -0500
+2012-04-24 20:16:12 INFO: Processing by WelcomeController#index as HTML
+2012-04-24 20:16:12 INFO:   Rendered welcome/index.html.erb within layouts/application (0.0ms)
+2012-04-24 20:16:13 INFO: Compiled collections/tweets.js  (10ms)  (pid 31864)
+2012-04-24 20:16:13 INFO: Compiled application.js  (92ms)  (pid 31864)
+2012-04-24 20:16:13 INFO: Completed 200 OK in 426ms (Views: 425.0ms | ActiveRecord: 0.0ms)
+2012-04-24 20:16:13 INFO: 
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-04-24 15:16:13 -0500
+2012-04-24 20:16:13 INFO: Served asset /jquery.js - 304 Not Modified (6ms)
+2012-04-24 20:16:13 INFO: 
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-04-24 15:16:13 -0500
+2012-04-24 20:16:13 INFO: Served asset /application.css - 304 Not Modified (1ms)
+2012-04-24 20:16:13 INFO: 
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-04-24 15:16:13 -0500
+2012-04-24 20:16:13 INFO: Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+2012-04-24 20:16:13 INFO: 
+
+Started GET "/assets/underscore-min.js?body=1" for 127.0.0.1 at 2012-04-24 15:16:13 -0500
+2012-04-24 20:16:13 INFO: Served asset /underscore-min.js - 304 Not Modified (0ms)
+2012-04-24 20:16:13 INFO: 
+
+Started GET "/assets/backbone-min.js?body=1" for 127.0.0.1 at 2012-04-24 15:16:13 -0500
+2012-04-24 20:16:13 INFO: Served asset /backbone-min.js - 304 Not Modified (0ms)
+2012-04-24 20:16:13 INFO: 
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2012-04-24 15:16:13 -0500
+2012-04-24 20:16:13 INFO: Served asset /welcome.css - 304 Not Modified (0ms)
+2012-04-24 20:16:13 INFO: 
+
+Started GET "/assets/models/tweet.js?body=1" for 127.0.0.1 at 2012-04-24 15:16:13 -0500
+2012-04-24 20:16:13 INFO: Served asset /models/tweet.js - 304 Not Modified (1ms)
+2012-04-24 20:16:13 INFO: 
+
+Started GET "/assets/collections/tweets.js?body=1" for 127.0.0.1 at 2012-04-24 15:16:13 -0500
+2012-04-24 20:16:13 INFO: Served asset /collections/tweets.js - 200 OK (18ms)
+2012-04-24 20:16:13 INFO: 
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2012-04-24 15:16:13 -0500
+2012-04-24 20:16:13 INFO: Served asset /welcome.js - 304 Not Modified (0ms)
+2012-04-24 20:16:13 INFO: 
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-04-24 15:16:13 -0500
+2012-04-24 20:16:13 INFO: Served asset /application.js - 304 Not Modified (78ms)
+2012-04-24 20:18:09 INFO: 
+
+Started GET "/" for 127.0.0.1 at 2012-04-24 15:18:09 -0500
+2012-04-24 20:18:09 INFO: Processing by WelcomeController#index as HTML
+2012-04-24 20:18:09 INFO:   Rendered welcome/index.html.erb within layouts/application (19.0ms)
+2012-04-24 20:18:09 INFO: Compiled collections/tweets.js  (2ms)  (pid 31864)
+2012-04-24 20:18:09 INFO: Compiled views/tweets_view.js  (2ms)  (pid 31864)
+2012-04-24 20:18:10 INFO: Compiled application.js  (286ms)  (pid 31864)
+2012-04-24 20:18:10 INFO: Completed 200 OK in 770ms (Views: 769.0ms | ActiveRecord: 0.0ms)
+2012-04-24 20:18:10 INFO: 
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-04-24 15:18:10 -0500
+2012-04-24 20:18:10 INFO: Served asset /application.css - 304 Not Modified (13ms)
+2012-04-24 20:18:10 INFO: 
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2012-04-24 15:18:10 -0500
+2012-04-24 20:18:10 INFO: Served asset /welcome.css - 304 Not Modified (0ms)
+2012-04-24 20:18:10 INFO: 
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-04-24 15:18:10 -0500
+2012-04-24 20:18:10 INFO: Served asset /jquery.js - 304 Not Modified (0ms)
+2012-04-24 20:18:10 INFO: 
+
+Started GET "/assets/views/tweets_view.js?body=1" for 127.0.0.1 at 2012-04-24 15:18:10 -0500
+2012-04-24 20:18:10 INFO: Served asset /views/tweets_view.js - 200 OK (95ms)
+2012-04-24 20:18:10 INFO: 
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-04-24 15:18:10 -0500
+2012-04-24 20:18:10 INFO: Served asset /jquery_ujs.js - 304 Not Modified (16ms)
+2012-04-24 20:18:10 INFO: 
+
+Started GET "/assets/underscore-min.js?body=1" for 127.0.0.1 at 2012-04-24 15:18:10 -0500
+2012-04-24 20:18:10 INFO: Served asset /underscore-min.js - 304 Not Modified (3ms)
+2012-04-24 20:18:10 INFO: 
+
+Started GET "/assets/backbone-min.js?body=1" for 127.0.0.1 at 2012-04-24 15:18:10 -0500
+2012-04-24 20:18:10 INFO: Served asset /backbone-min.js - 304 Not Modified (0ms)
+2012-04-24 20:18:10 INFO: 
+
+Started GET "/assets/models/tweet.js?body=1" for 127.0.0.1 at 2012-04-24 15:18:10 -0500
+2012-04-24 20:18:10 INFO: Served asset /models/tweet.js - 304 Not Modified (0ms)
+2012-04-24 20:18:10 INFO: 
+
+Started GET "/assets/collections/tweets.js?body=1" for 127.0.0.1 at 2012-04-24 15:18:10 -0500
+2012-04-24 20:18:10 INFO: Served asset /collections/tweets.js - 200 OK (75ms)
+2012-04-24 20:18:10 INFO: 
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2012-04-24 15:18:10 -0500
+2012-04-24 20:18:10 INFO: Served asset /welcome.js - 304 Not Modified (1ms)
+2012-04-24 20:18:10 INFO: 
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-04-24 15:18:10 -0500
+2012-04-24 20:18:11 INFO: Served asset /application.js - 304 Not Modified (121ms)
+2012-04-24 20:18:31 INFO: 
+
+Started GET "/" for 127.0.0.1 at 2012-04-24 15:18:31 -0500
+2012-04-24 20:18:31 INFO: Processing by WelcomeController#index as HTML
+2012-04-24 20:18:31 INFO:   Rendered welcome/index.html.erb within layouts/application (4.0ms)
+2012-04-24 20:18:31 INFO: Completed 200 OK in 48ms (Views: 47.0ms | ActiveRecord: 0.0ms)
+2012-04-24 20:19:28 INFO: 
+
+Started GET "/" for 127.0.0.1 at 2012-04-24 15:19:28 -0500
+2012-04-24 20:19:28 INFO: Processing by WelcomeController#index as HTML
+2012-04-24 20:19:28 INFO:   Rendered welcome/index.html.erb within layouts/application (13.0ms)
+2012-04-24 20:19:28 INFO: Completed 200 OK in 57ms (Views: 56.0ms | ActiveRecord: 0.0ms)
+2012-04-24 20:19:28 INFO: 
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-04-24 15:19:28 -0500
+2012-04-24 20:19:28 INFO: Served asset /application.css - 304 Not Modified (0ms)
+2012-04-24 20:19:28 INFO: 
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2012-04-24 15:19:28 -0500
+2012-04-24 20:19:28 INFO: Served asset /welcome.css - 304 Not Modified (0ms)
+2012-04-24 20:19:28 INFO: 
+
+Started GET "/assets/models/tweet.js?body=1" for 127.0.0.1 at 2012-04-24 15:19:28 -0500
+2012-04-24 20:19:28 INFO: Served asset /models/tweet.js - 304 Not Modified (0ms)
+2012-04-24 20:19:28 INFO: 
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-04-24 15:19:28 -0500
+2012-04-24 20:19:28 INFO: Served asset /jquery.js - 304 Not Modified (0ms)
+2012-04-24 20:19:28 INFO: 
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-04-24 15:19:28 -0500
+2012-04-24 20:19:28 INFO: Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+2012-04-24 20:19:28 INFO: 
+
+Started GET "/assets/underscore-min.js?body=1" for 127.0.0.1 at 2012-04-24 15:19:28 -0500
+2012-04-24 20:19:28 INFO: Served asset /underscore-min.js - 304 Not Modified (0ms)
+2012-04-24 20:19:28 INFO: 
+
+Started GET "/assets/backbone-min.js?body=1" for 127.0.0.1 at 2012-04-24 15:19:28 -0500
+2012-04-24 20:19:28 INFO: Served asset /backbone-min.js - 304 Not Modified (7ms)
+2012-04-24 20:19:28 INFO: 
+
+Started GET "/assets/collections/tweets.js?body=1" for 127.0.0.1 at 2012-04-24 15:19:28 -0500
+2012-04-24 20:19:28 INFO: Served asset /collections/tweets.js - 304 Not Modified (0ms)
+2012-04-24 20:19:28 INFO: 
+
+Started GET "/assets/views/tweets_view.js?body=1" for 127.0.0.1 at 2012-04-24 15:19:28 -0500
+2012-04-24 20:19:28 INFO: Served asset /views/tweets_view.js - 304 Not Modified (1ms)
+2012-04-24 20:19:28 INFO: 
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2012-04-24 15:19:28 -0500
+2012-04-24 20:19:28 INFO: Served asset /welcome.js - 304 Not Modified (0ms)
+2012-04-24 20:19:28 INFO: 
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-04-24 15:19:28 -0500
+2012-04-24 20:19:28 INFO: Served asset /application.js - 304 Not Modified (1ms)
+2012-04-24 20:19:35 INFO: 
+
+Started GET "/" for 127.0.0.1 at 2012-04-24 15:19:35 -0500
+2012-04-24 20:19:35 INFO: Processing by WelcomeController#index as HTML
+2012-04-24 20:19:35 INFO:   Rendered welcome/index.html.erb within layouts/application (1.0ms)
+2012-04-24 20:19:35 INFO: Completed 200 OK in 21ms (Views: 20.0ms | ActiveRecord: 0.0ms)
+2012-04-24 20:21:50 INFO: 
+
+Started GET "/" for 127.0.0.1 at 2012-04-24 15:21:50 -0500
+2012-04-24 20:21:50 INFO: Processing by WelcomeController#index as HTML
+2012-04-24 20:21:50 INFO:   Rendered welcome/index.html.erb within layouts/application (14.0ms)
+2012-04-24 20:21:50 INFO: Compiled collections/tweets.js  (9ms)  (pid 31864)
+2012-04-24 20:21:50 INFO: Compiled views/tweets_view.js  (1ms)  (pid 31864)
+2012-04-24 20:21:51 INFO: Compiled application.js  (289ms)  (pid 31864)
+2012-04-24 20:21:51 INFO: Completed 200 OK in 860ms (Views: 859.0ms | ActiveRecord: 0.0ms)
+2012-04-24 20:21:51 INFO: 
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2012-04-24 15:21:51 -0500
+2012-04-24 20:21:51 INFO: Served asset /welcome.css - 304 Not Modified (22ms)
+2012-04-24 20:21:51 INFO: 
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-04-24 15:21:51 -0500
+2012-04-24 20:21:51 INFO: Served asset /jquery.js - 304 Not Modified (0ms)
+2012-04-24 20:21:51 INFO: 
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-04-24 15:21:51 -0500
+2012-04-24 20:21:51 INFO: Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+2012-04-24 20:21:51 INFO: 
+
+Started GET "/assets/underscore-min.js?body=1" for 127.0.0.1 at 2012-04-24 15:21:51 -0500
+2012-04-24 20:21:51 INFO: Served asset /underscore-min.js - 304 Not Modified (0ms)
+2012-04-24 20:21:51 INFO: 
+
+Started GET "/assets/models/tweet.js?body=1" for 127.0.0.1 at 2012-04-24 15:21:51 -0500
+2012-04-24 20:21:51 INFO: Served asset /models/tweet.js - 304 Not Modified (0ms)
+2012-04-24 20:21:51 INFO: 
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-04-24 15:21:51 -0500
+2012-04-24 20:21:51 INFO: Served asset /application.css - 304 Not Modified (0ms)
+2012-04-24 20:21:51 INFO: 
+
+Started GET "/assets/collections/tweets.js?body=1" for 127.0.0.1 at 2012-04-24 15:21:51 -0500
+2012-04-24 20:21:51 INFO: Served asset /collections/tweets.js - 200 OK (127ms)
+2012-04-24 20:21:51 INFO: 
+
+Started GET "/assets/views/tweets_view.js?body=1" for 127.0.0.1 at 2012-04-24 15:21:51 -0500
+2012-04-24 20:21:51 INFO: Served asset /views/tweets_view.js - 200 OK (13ms)
+2012-04-24 20:21:51 INFO: 
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2012-04-24 15:21:51 -0500
+2012-04-24 20:21:51 INFO: Served asset /welcome.js - 304 Not Modified (0ms)
+2012-04-24 20:21:51 INFO: 
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-04-24 15:21:51 -0500
+2012-04-24 20:21:51 INFO: Served asset /application.js - 304 Not Modified (78ms)
+2012-04-24 20:21:51 INFO: 
+
+Started GET "/assets/backbone-min.js?body=1" for 127.0.0.1 at 2012-04-24 15:21:51 -0500
+2012-04-24 20:21:51 INFO: Served asset /backbone-min.js - 304 Not Modified (1ms)
+2012-04-24 20:22:37 INFO: 
+
+Started GET "/" for 127.0.0.1 at 2012-04-24 15:22:37 -0500
+2012-04-24 20:22:37 INFO: Processing by WelcomeController#index as HTML
+2012-04-24 20:22:37 INFO:   Rendered welcome/index.html.erb within layouts/application (15.0ms)
+2012-04-24 20:22:37 INFO: Completed 200 OK in 55ms (Views: 55.0ms | ActiveRecord: 0.0ms)
+2012-04-24 20:22:37 INFO: 
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2012-04-24 15:22:37 -0500
+2012-04-24 20:22:37 INFO: Served asset /welcome.css - 304 Not Modified (0ms)
+2012-04-24 20:22:37 INFO: 
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-04-24 15:22:37 -0500
+2012-04-24 20:22:37 INFO: Served asset /jquery.js - 304 Not Modified (0ms)
+2012-04-24 20:22:37 INFO: 
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-04-24 15:22:37 -0500
+2012-04-24 20:22:37 INFO: Served asset /jquery_ujs.js - 304 Not Modified (6ms)
+2012-04-24 20:22:37 INFO: 
+
+Started GET "/assets/underscore-min.js?body=1" for 127.0.0.1 at 2012-04-24 15:22:37 -0500
+2012-04-24 20:22:37 INFO: Served asset /underscore-min.js - 304 Not Modified (1ms)
+2012-04-24 20:22:37 INFO: 
+
+Started GET "/assets/backbone-min.js?body=1" for 127.0.0.1 at 2012-04-24 15:22:37 -0500
+2012-04-24 20:22:37 INFO: Served asset /backbone-min.js - 304 Not Modified (0ms)
+2012-04-24 20:22:37 INFO: 
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-04-24 15:22:37 -0500
+2012-04-24 20:22:37 INFO: Served asset /application.css - 304 Not Modified (0ms)
+2012-04-24 20:22:37 INFO: 
+
+Started GET "/assets/models/tweet.js?body=1" for 127.0.0.1 at 2012-04-24 15:22:37 -0500
+2012-04-24 20:22:37 INFO: Served asset /models/tweet.js - 304 Not Modified (0ms)
+2012-04-24 20:22:37 INFO: 
+
+Started GET "/assets/collections/tweets.js?body=1" for 127.0.0.1 at 2012-04-24 15:22:37 -0500
+2012-04-24 20:22:37 INFO: Served asset /collections/tweets.js - 304 Not Modified (0ms)
+2012-04-24 20:22:37 INFO: 
+
+Started GET "/assets/views/tweets_view.js?body=1" for 127.0.0.1 at 2012-04-24 15:22:37 -0500
+2012-04-24 20:22:37 INFO: Served asset /views/tweets_view.js - 304 Not Modified (0ms)
+2012-04-24 20:22:37 INFO: 
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2012-04-24 15:22:37 -0500
+2012-04-24 20:22:37 INFO: Served asset /welcome.js - 304 Not Modified (0ms)
+2012-04-24 20:22:37 INFO: 
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-04-24 15:22:37 -0500
+2012-04-24 20:22:37 INFO: Served asset /application.js - 304 Not Modified (0ms)
+2012-04-24 20:23:02 INFO: 
+
+Started GET "/" for 127.0.0.1 at 2012-04-24 15:23:02 -0500
+2012-04-24 20:23:02 INFO: Processing by WelcomeController#index as HTML
+2012-04-24 20:23:02 INFO:   Rendered welcome/index.html.erb within layouts/application (0.0ms)
+2012-04-24 20:23:02 INFO: Compiled views/tweets_view.js  (16ms)  (pid 31864)
+2012-04-24 20:23:02 INFO: Compiled application.js  (209ms)  (pid 31864)
+2012-04-24 20:23:02 INFO: Completed 200 OK in 436ms (Views: 435.0ms | ActiveRecord: 0.0ms)
+2012-04-24 20:23:02 INFO: 
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2012-04-24 15:23:02 -0500
+2012-04-24 20:23:02 INFO: Served asset /welcome.css - 304 Not Modified (3ms)
+2012-04-24 20:23:02 INFO: 
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-04-24 15:23:02 -0500
+2012-04-24 20:23:02 INFO: Served asset /application.css - 304 Not Modified (0ms)
+2012-04-24 20:23:02 INFO: 
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-04-24 15:23:02 -0500
+2012-04-24 20:23:02 INFO: Served asset /jquery.js - 304 Not Modified (0ms)
+2012-04-24 20:23:02 INFO: 
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-04-24 15:23:02 -0500
+2012-04-24 20:23:02 INFO: Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+2012-04-24 20:23:03 INFO: 
+
+Started GET "/assets/underscore-min.js?body=1" for 127.0.0.1 at 2012-04-24 15:23:03 -0500
+2012-04-24 20:23:03 INFO: Served asset /underscore-min.js - 304 Not Modified (1ms)
+2012-04-24 20:23:03 INFO: 
+
+Started GET "/assets/backbone-min.js?body=1" for 127.0.0.1 at 2012-04-24 15:23:03 -0500
+2012-04-24 20:23:03 INFO: Served asset /backbone-min.js - 304 Not Modified (0ms)
+2012-04-24 20:23:03 INFO: 
+
+Started GET "/assets/models/tweet.js?body=1" for 127.0.0.1 at 2012-04-24 15:23:03 -0500
+2012-04-24 20:23:03 INFO: Served asset /models/tweet.js - 304 Not Modified (1ms)
+2012-04-24 20:23:03 INFO: 
+
+Started GET "/assets/collections/tweets.js?body=1" for 127.0.0.1 at 2012-04-24 15:23:03 -0500
+2012-04-24 20:23:03 INFO: Served asset /collections/tweets.js - 304 Not Modified (0ms)
+2012-04-24 20:23:03 INFO: 
+
+Started GET "/assets/views/tweets_view.js?body=1" for 127.0.0.1 at 2012-04-24 15:23:03 -0500
+2012-04-24 20:23:03 INFO: Served asset /views/tweets_view.js - 200 OK (39ms)
+2012-04-24 20:23:03 INFO: 
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2012-04-24 15:23:03 -0500
+2012-04-24 20:23:03 INFO: Served asset /welcome.js - 304 Not Modified (0ms)
+2012-04-24 20:23:03 INFO: 
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-04-24 15:23:03 -0500
+2012-04-24 20:23:03 INFO: Served asset /application.js - 304 Not Modified (105ms)
+2012-04-24 20:24:00 INFO: 
+
+Started GET "/" for 127.0.0.1 at 2012-04-24 15:23:59 -0500
+2012-04-24 20:24:00 INFO: Processing by WelcomeController#index as HTML
+2012-04-24 20:24:00 INFO:   Rendered welcome/index.html.erb within layouts/application (0.0ms)
+2012-04-24 20:24:00 INFO: Compiled views/tweets_view.js  (6ms)  (pid 31864)
+2012-04-24 20:24:00 INFO: Compiled application.js  (54ms)  (pid 31864)
+2012-04-24 20:24:00 INFO: Completed 200 OK in 356ms (Views: 356.0ms | ActiveRecord: 0.0ms)
+2012-04-24 20:24:00 INFO: 
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2012-04-24 15:24:00 -0500
+2012-04-24 20:24:00 INFO: Served asset /welcome.css - 304 Not Modified (0ms)
+2012-04-24 20:24:00 INFO: 
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-04-24 15:24:00 -0500
+2012-04-24 20:24:00 INFO: Served asset /jquery.js - 304 Not Modified (1ms)
+2012-04-24 20:24:00 INFO: 
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-04-24 15:24:00 -0500
+2012-04-24 20:24:00 INFO: Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+2012-04-24 20:24:00 INFO: 
+
+Started GET "/assets/backbone-min.js?body=1" for 127.0.0.1 at 2012-04-24 15:24:00 -0500
+2012-04-24 20:24:00 INFO: Served asset /backbone-min.js - 304 Not Modified (0ms)
+2012-04-24 20:24:00 INFO: 
+
+Started GET "/assets/underscore-min.js?body=1" for 127.0.0.1 at 2012-04-24 15:24:00 -0500
+2012-04-24 20:24:00 INFO: Served asset /underscore-min.js - 304 Not Modified (0ms)
+2012-04-24 20:24:00 INFO: 
+
+Started GET "/assets/models/tweet.js?body=1" for 127.0.0.1 at 2012-04-24 15:24:00 -0500
+2012-04-24 20:24:00 INFO: Served asset /models/tweet.js - 304 Not Modified (0ms)
+2012-04-24 20:24:00 INFO: 
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-04-24 15:24:00 -0500
+2012-04-24 20:24:00 INFO: Served asset /application.css - 304 Not Modified (0ms)
+2012-04-24 20:24:00 INFO: 
+
+Started GET "/assets/collections/tweets.js?body=1" for 127.0.0.1 at 2012-04-24 15:24:00 -0500
+2012-04-24 20:24:00 INFO: Served asset /collections/tweets.js - 304 Not Modified (1ms)
+2012-04-24 20:24:00 INFO: 
+
+Started GET "/assets/views/tweets_view.js?body=1" for 127.0.0.1 at 2012-04-24 15:24:00 -0500
+2012-04-24 20:24:00 INFO: Served asset /views/tweets_view.js - 200 OK (23ms)
+2012-04-24 20:24:00 INFO: 
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2012-04-24 15:24:00 -0500
+2012-04-24 20:24:00 INFO: Served asset /welcome.js - 304 Not Modified (0ms)
+2012-04-24 20:24:00 INFO: 
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-04-24 15:24:00 -0500
+2012-04-24 20:24:00 INFO: Served asset /application.js - 304 Not Modified (153ms)
+2012-04-24 20:24:11 INFO: 
+
+Started GET "/" for 127.0.0.1 at 2012-04-24 15:24:11 -0500
+2012-04-24 20:24:11 INFO: Processing by WelcomeController#index as HTML
+2012-04-24 20:24:11 INFO:   Rendered welcome/index.html.erb within layouts/application (0.0ms)
+2012-04-24 20:24:11 INFO: Compiled views/tweets_view.js  (1ms)  (pid 31864)
+2012-04-24 20:24:11 INFO: Compiled application.js  (29ms)  (pid 31864)
+2012-04-24 20:24:11 INFO: Completed 200 OK in 370ms (Views: 369.0ms | ActiveRecord: 0.0ms)
+2012-04-24 20:24:12 INFO: 
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-04-24 15:24:12 -0500
+2012-04-24 20:24:12 INFO: Served asset /jquery.js - 304 Not Modified (0ms)
+2012-04-24 20:24:12 INFO: 
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2012-04-24 15:24:12 -0500
+2012-04-24 20:24:12 INFO: Served asset /welcome.css - 304 Not Modified (0ms)
+2012-04-24 20:24:12 INFO: 
+
+Started GET "/assets/underscore-min.js?body=1" for 127.0.0.1 at 2012-04-24 15:24:12 -0500
+2012-04-24 20:24:12 INFO: Served asset /underscore-min.js - 304 Not Modified (0ms)
+2012-04-24 20:24:12 INFO: 
+
+Started GET "/assets/backbone-min.js?body=1" for 127.0.0.1 at 2012-04-24 15:24:12 -0500
+2012-04-24 20:24:12 INFO: Served asset /backbone-min.js - 304 Not Modified (0ms)
+2012-04-24 20:24:12 INFO: 
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-04-24 15:24:12 -0500
+2012-04-24 20:24:12 INFO: Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+2012-04-24 20:24:12 INFO: 
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-04-24 15:24:12 -0500
+2012-04-24 20:24:12 INFO: Served asset /application.css - 304 Not Modified (0ms)
+2012-04-24 20:24:12 INFO: 
+
+Started GET "/assets/models/tweet.js?body=1" for 127.0.0.1 at 2012-04-24 15:24:12 -0500
+2012-04-24 20:24:12 INFO: Served asset /models/tweet.js - 304 Not Modified (0ms)
+2012-04-24 20:24:12 INFO: 
+
+Started GET "/assets/collections/tweets.js?body=1" for 127.0.0.1 at 2012-04-24 15:24:12 -0500
+2012-04-24 20:24:12 INFO: Served asset /collections/tweets.js - 304 Not Modified (0ms)
+2012-04-24 20:24:12 INFO: 
+
+Started GET "/assets/views/tweets_view.js?body=1" for 127.0.0.1 at 2012-04-24 15:24:12 -0500
+2012-04-24 20:24:12 INFO: Served asset /views/tweets_view.js - 200 OK (102ms)
+2012-04-24 20:24:12 INFO: 
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2012-04-24 15:24:12 -0500
+2012-04-24 20:24:12 INFO: Served asset /welcome.js - 304 Not Modified (6ms)
+2012-04-24 20:24:12 INFO: 
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-04-24 15:24:12 -0500
+2012-04-24 20:24:12 INFO: Served asset /application.js - 304 Not Modified (138ms)

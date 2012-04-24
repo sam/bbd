@@ -1,7 +1,13 @@
-<script type="text/javascript" charset="utf-8">
-  
-</script>
-
 <div id="wrapper">
+
+  <script>
+    var railsconfTweets = new Tweets();
+    
+    var tweetsView = new TweetsView({
+      collection: railsconfTweets
+    });
+    railsconfTweets.fetch();
+  </script>
+
 
 </div>
